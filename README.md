@@ -2,7 +2,7 @@
 - 👀 I’m interested in web Developement
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on any project related to django to learn more
-- 📫 How to reach me jihenazzouz@gmail.com
+
 
 <!---
 JihenAzzouz/JihenAzzouz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
